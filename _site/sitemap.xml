@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/thermique-du-b%C3%A2timent/subscription-payments/</loc>
+<lastmod>2017-01-16T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/air-humide/urban/</loc>
+<lastmod>2017-01-16T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/thermique-du-b%C3%A2timent/first-video-page/</loc>
+<lastmod>2017-06-06T00:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/air-humide/second-video-page/</loc>
+<lastmod>2017-06-06T00:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/faq/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/videos/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/thermique-du-b%C3%A2timent/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/air-humide/</loc>
+</url>
+</urlset>
